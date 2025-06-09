@@ -48,8 +48,9 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirRezaRahimZadeh&theme=tokyonight" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaRahimZadeh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirRahimZadeh918&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRahimZadeh918&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -58,7 +59,7 @@
 
 - 💌 Email: [arahimreza918@gmail.com](mailto:arahimreza918@gmail.com)
 - 💼 LinkedIn (optional): *Add if available*
-- 🌐 GitHub: [github.com/AmirRezaRahimZadeh](https://github.com/AmirRezaRahimZadeh)
+- 🌐 GitHub: [github.com/AmirRezaRahimZadeh](https://github.com/AmirRahimZadeh918)
 
 ---
 
