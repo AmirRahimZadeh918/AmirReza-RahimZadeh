@@ -63,7 +63,6 @@
 ## 📫 Contact Me
 
 - 💌 Email: [arahimreza918@gmail.com](mailto:arahimreza918@gmail.com)
-- 💼 LinkedIn (optional): *Add if available*
 - 🌐 GitHub: [github.com/AmirRezaRahimZadeh](https://github.com/AmirRahimZadeh918)
 
 ---
