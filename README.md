@@ -47,11 +47,16 @@
 
 ## 📈 GitHub Activity
 
-<p align="center">
+<div align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirRahimZadeh918&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRahimZadeh918&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirRahimZadeh918&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=AmirRahimZadeh918&theme=tokyonight" alt="GitHub Trophy" />
+
+</div>
+
 
 ---
 
